@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masiuta/webcrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masiuta/webcrawler/issues"
+  },
+  "homepage": "https://github.com/masiuta/webcrawler#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
